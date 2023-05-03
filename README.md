@@ -1,2 +1,2 @@
-# VIS_ALGO
-GUI Based application for easy explanation of Dynamic Programming 
+# software solution for dynamic programming
+GUI Based application of knapsack problem for an understanding of dynamic programming 
